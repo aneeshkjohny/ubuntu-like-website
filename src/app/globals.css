@@ -27,6 +27,8 @@ html, body {
 
 /* Top Bar */
 .topbar {
+  position: relative;
+  z-index: 9999;
   height: 28px;
   background: rgba(0, 0, 0, 0.4);
   display: flex;

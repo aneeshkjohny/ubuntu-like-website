@@ -14,7 +14,9 @@ A beautiful, interactive web experience designed to look and feel like an Ubuntu
 
 Here's a glimpse into the beautiful aesthetic and the various custom wallpapers included out of the box!
 
-### Custom AI Edition Wallpaper
+![Screenshot](./public/ubuntu-website.png)
+
+### Graphics
 ![Custom Ubuntu Wallpaper](./public/custom-ubuntu.jpg)
 
 ### Scenic Landscapes
